@@ -28,17 +28,17 @@ msgstr "Fichiers"
 #: ../src/app/qml/backend/FolderModel.qml:167
 #, fuzzy
 msgid "Home"
-msgstr "Maison"
+msgstr "Accueil"
 
 #: ../build/src/app/qml/backend/FolderModel.qml:169
 #: ../src/app/qml/backend/FolderModel.qml:169
 msgid "Device"
-msgstr ""
+msgstr "Appareil"
 
 #: ../build/src/app/qml/components/FolderListView.qml:104
 #: ../src/app/qml/components/FolderListView.qml:104
 msgid "No files"
-msgstr ""
+msgstr "Pas de fichiers"
 
 #: ../src/plugin/folderlistmodel/dirmodel.cpp:424
 msgid "path or url may not exist or cannot be read"
@@ -46,11 +46,11 @@ msgstr ""
 
 #: ../src/plugin/folderlistmodel/dirmodel.cpp:597
 msgid "Rename error"
-msgstr ""
+msgstr "Erreur de nom"
 
 #: ../src/plugin/folderlistmodel/dirmodel.cpp:622
 msgid "Error creating new folder"
-msgstr ""
+msgstr "Erreur lors de la création du dossier"
 
 #: ../src/plugin/folderlistmodel/dirmodel.cpp:1264
 msgid "items"
@@ -58,15 +58,15 @@ msgstr ""
 
 #: ../src/plugin/folderlistmodel/filesystemaction.cpp:263
 msgid "File or Directory does not exist"
-msgstr ""
+msgstr "Le fichier ou la destination n'existe pas"
 
 #: ../src/plugin/folderlistmodel/filesystemaction.cpp:264
 msgid " does not exist"
-msgstr ""
+msgstr " n'existe pas"
 
 #: ../src/plugin/folderlistmodel/filesystemaction.cpp:590
 msgid "Could not remove the item "
-msgstr ""
+msgstr "Impossible de supprimer le fichier"
 
 #: ../src/plugin/folderlistmodel/filesystemaction.cpp:631
 msgid "Could not find a suitable name to backup"
@@ -115,7 +115,7 @@ msgstr ""
 
 #: ../src/plugin/folderlistmodel/filesystemaction.cpp:882
 msgid "Cannot move items"
-msgstr ""
+msgstr "Impossible de déplacer le ou les fichier(s)"
 
 #: ../src/plugin/folderlistmodel/filesystemaction.cpp:888
 msgid "origin and destination folders are the same"
@@ -131,7 +131,7 @@ msgstr ""
 
 #: ../src/plugin/folderlistmodel/filesystemaction.cpp:1354
 msgid " Copy"
-msgstr ""
+msgstr "Copier"
 
 #: ../src/plugin/folderlistmodel/filesystemaction.cpp:1410
 msgid "Set permissions error in "
